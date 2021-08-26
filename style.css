@@ -367,3 +367,172 @@ hr {
 .end p {
     margin: 0rem 10rem;
 }
+
+
+/* Applying media query */
+
+@media(max-width:1024px) {
+  hr{
+    display: none;
+  }
+  .sc-bke1zw-1.sc-elhb8j-19.kWlqhA {
+    margin: 0rem;
+}
+.sc-bke1zw-1.sc-elhb8j-19.jdkgnT {
+    margin: 0rem;
+}
+.sc-bke1zw-1.sc-elhb8j-19.gZGcQW {
+    margin: 0rem;
+}
+.sc-bke1zw-1.sc-elhb8j-13.hHFmwV {
+    margin: 0rem;
+}
+.table {
+  max-width: 41rem;
+}
+.heading-2 {
+  margin: 0rem;
+}
+.inner-bar {
+  width: 36rem;
+}
+.content-wrapper h1 {
+  font-size: 2rem;
+}
+.navbar-collapse {
+  margin: 0rem 4.5rem 0rem 0rem;
+}
+.container-2 div a img {
+  display: flex;
+}
+
+}
+
+
+@media(max-width:425px){
+  :root {
+    scroll-behavior: smooth;
+    min-width: 467px;
+}
+  .sc-bke1zw-1.sc-elhb8j-13.hHFmwV {
+    margin: 0rem;
+    display: none;
+}
+.container-2 div img {
+  display: none;
+}
+.container-2 {
+  padding: 2rem 0rem 0.5rem 0rem;
+  /* width: 39rem; */
+}
+.application .header h1 {
+  font-size: 3.5rem;
+}
+.application {
+  margin: 1.5rem 0.5rem;
+  /* width: 38rem; */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1.2rem;
+  text-align: center;
+}
+.application p {
+  font-size: 1.6rem;
+}
+.checkboxes #radio {
+  width: 2rem;
+  height: 2rem;
+}
+.checkboxes label {
+  font-size: 1.5rem;
+}
+.search input {
+  margin: 0rem;
+  height: 4rem;
+  /* width: 22rem; */
+}
+.search button {
+  height: 4rem;
+}
+.container-2 div a img {
+  display: flex;
+  width: 19rem;
+  height: 5rem;
+  margin: 1rem 0rem 0.1rem 0rem;
+}
+.download .sub-head {
+  font-size: 1.9rem;
+}
+.footer {
+  background: rgb(248, 248, 248);
+  padding: 3.6rem 3.6rem 1.5rem 3.6rem;
+  /* width: 40rem; */
+}
+.heading-2 {
+  margin: 1rem;
+  flex-direction: column;
+  align-items: baseline;
+}
+.heading-2 .zig img {
+  margin: 2rem 1rem;
+  /* width: 18.3rem; */
+}
+.end p {
+  margin: 0rem 3rem;
+}
+.container-3 {
+  margin: 7rem 3rem 0rem 4rem;
+  /* width: 33rem; */
+}
+.container-3 .heading-1 h2 {
+  font-size: 2.92rem;
+}
+.sub-part .sub-heading h3 {
+  font-size: 2rem;
+}
+.sub-part .anchors a {
+  font-size: 1.5rem;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  /* width: 39rem; */
+}
+.title {
+  width: 31rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 9rem 0rem -2rem 0rem;
+}
+.container .para-1 {
+  font-size: 2.5rem;
+}
+.background {
+  height: 53rem;
+}
+.content-wrapper {
+  margin: -13rem 0rem;
+}
+.img-written {
+  left: 3rem;
+}
+.content-wrapper h1 {
+  font-size: 2rem;
+  margin: 2rem 0rem;
+  /* left: 117rem; */
+  padding: 0rem 0rem 0rem 8rem;
+  width: 31rem;
+}
+.inner-bar {
+  width: 23.5rem;
+}
+.search-bar {
+  max-width: 21rem;
+  margin-left: 4rem;
+}
+.end p {
+  margin: 0rem -2rem;
+}
+}
